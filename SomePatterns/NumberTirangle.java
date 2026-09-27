@@ -14,7 +14,5 @@ public class NumberTirangle {
             }
             System.out.println();
         }
-
     }
-    
 }
