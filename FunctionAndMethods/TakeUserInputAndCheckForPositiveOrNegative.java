@@ -15,6 +15,7 @@ public class TakeUserInputAndCheckForPositiveOrNegative {
                 System.out.println("positive number");
                 System.out.println(a);
             }
+            
             else if(a==0){
                 System.out.println("Zero number");
                 System.out.println(a);
