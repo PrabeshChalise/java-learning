@@ -6,5 +6,4 @@ public class SubStringsInJava {
         String name = sentence.substring(11);
         System.out.println(name);
     }
-    
 }
