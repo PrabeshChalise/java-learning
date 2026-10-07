@@ -6,5 +6,6 @@ public class FirstStringBuilderFile {
         sb.charAt(0);
         System.out.println(sb.charAt(0));
         //this is new type
+        //9
     }
 }
